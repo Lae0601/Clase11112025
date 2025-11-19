@@ -14,6 +14,6 @@ jobs:
 
       - name: Print messages
         run: |
-          "Impresión 1"
-          "Impresión 2"
-          "Impresión 3"
+          echo "Impresión 1"
+          echo "Impresión 2"
+          echo "Impresión 3"
